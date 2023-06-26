@@ -19,7 +19,7 @@
       font-family: 'Cookie', cursive;  
     }  
     .title {  
-    margin-bottom: 10px;  
+    argin-bottom: 10px;  
     padding: 5px 0;  
     font-size: 40px;  
     font-weight: bold;  
